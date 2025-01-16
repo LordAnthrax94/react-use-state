@@ -1,8 +1,11 @@
+import languages from "../assets/languages"
+import { useState } from "react"
+
 const Main = ()=>{
   return (
-   <Main>
+   <main>
     
-   </Main>
+   </main>
   ) 
  }
  
